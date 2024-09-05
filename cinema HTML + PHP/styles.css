@@ -1,0 +1,12 @@
+td{
+    width: 50px;
+}
+
+table{
+    display:none;
+}
+
+button{
+    min-width: 250px;
+    margin: 5px;
+}
